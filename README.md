@@ -14,6 +14,7 @@ Features:
 
 Files:
 - index.html: HTML file for the timer application.
+- styles.css: CSS file for the styles setting of the HTML document.
 - sounds/bell.wav: Audio file for the bell sound.
 - script.js: JavaScript code for the timer functionality.
 
